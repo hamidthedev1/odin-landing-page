@@ -102,3 +102,21 @@ width: 550px;
 .card-desc {
     width: 150px;
 }
+
+/*  Quote Section*/
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+    padding-block: 72px;
+    padding-inline: 255px;   
+}
+.author {
+    text-align: end;
+    font-weight: bold;
+}
