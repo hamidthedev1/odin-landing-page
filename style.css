@@ -120,3 +120,21 @@ width: 550px;
     text-align: end;
     font-weight: bold;
 }
+/* CTA Section */
+.cta-container {
+    margin-inline: 140px;
+    margin-block: 100px;
+    padding: 48px 64px;
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-between;
+    color: #F9FAF8;
+}
+.cta-title{
+font-size: 24px;
+}
+
+.cta-container .btn {
+    border: 2px solid white;
+}
+
